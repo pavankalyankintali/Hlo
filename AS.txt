@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<title>
+HTML Lists Example
+</title>
+</head>
+<body>
+<h2>Ordered list(numbered)</h2>
+<ol>
+<li>Rice</li>
+<li>Sugar</li>
+<li>Dal</li>
+</ol>
+<h2>Unordered list(Bullet Points)</h2>
+/ul
+<li>Apple</li>
+<li>Orange</li>
+<li>Banana</li>
+</body>
+</html>
